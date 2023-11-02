@@ -285,9 +285,9 @@
             
             <tag> C++ </tag>
             
-            <tag> 算法 </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> 算法 </tag>
             
             <tag> 字符串 </tag>
             
@@ -443,7 +443,7 @@
       
       <categories>
           
-          <category> 数据结构 </category>
+          <category> 算法 </category>
           
       </categories>
       
